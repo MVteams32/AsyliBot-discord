@@ -1,28 +1,30 @@
 Service Providers:
-MVXXL#9919 
+MVXXL#9919
 
-Other contact options:
+Other communication options:
 Discord: MVXXL#9919
-
-
-
+Technical Support: https://discord.gg/yKv6PBUmcu
 
 Privacy Policy
-In terms of data protection laws, in particular the EU General Data Protection Regulation (GDPR), is responsible for:
+In terms of data protection legislation, in particular the EU General Data Protection Regulation (GDPR), responsibility for:
 
 MVXXL#9919
 
 Your rights as a data subject
-You can exercise the following rights at any time using the contact details provided by our data protection officer:
+You can exercise the following rights at any time using the contact information provided by our Data Protection Officer:
 
-Information about your data stored by us and their processing (Art. 15 GDPR),
-Correction of incorrect personal data (Art. 16 GDPR),
-Deletion of your data stored by us (Art. 17 GDPR),
-Restriction of data processing because we are not yet allowed to delete your data due to legal obligations (Art. 18 GDPR),
-Objection to the processing of your data by us (Art. 21 GDPR) and
-Data portability, if you have consented to the processing of data or have entered into a contract with us (Art. 20 GDPR).
-If you have given us your consent, you can revoke it at any time with future effect.
+Information about your data stored by us and its processing (Art. 15 GDPR).
+Correction of incorrect personal data (Art. 16 GDPR).
+Deletion of your data stored by us (Art. 17 GDPR).
+Restricting data processing because we cannot delete your data due to legal obligations (Article 18 GDPR).
+Objection to the processing of your data by us (Article 21 GDPR).
+Data portability if you have consented to data processing or have entered into a contract with us (Article 20 GDPR).
+If you have given us your consent, you can withdraw it at any time with future validity.
 
-You can complain to a supervisory authority at any time, such as the competent supervisory authority in your country of residence or the authority responsible for us.
+We allow users to opt out of providing us with certain data, even if this means that they will not be able to participate in certain functions.
 
-We use your data exclusively for the functionality of the bot.
+You may at any time lodge a complaint with a supervisory authority, such as the competent supervisory authority in your country of residence or the authority responsible for us.
+
+Please know: You can request the deletion of your data at any time, just contact us! (all ways to contact us above)
+
+We use your data solely to ensure the functionality of the bot
